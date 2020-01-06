@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Brett Fotheringham"
-  avatar           : "myface.png"
+  avatar           : "images/myface.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Salt Lake City Utah"
+  location         : "Salt Lake City, Utah"
   employer         :
   pubmed           : 
   googlescholar    : 
